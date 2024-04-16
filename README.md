@@ -1,1 +1,1 @@
-# Stock-Price-Prediction---JK-Cements
+# Stock-Price-Prediction---JK Cements
